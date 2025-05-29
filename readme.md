@@ -10,7 +10,7 @@
 
 | Feature | Description |
 |---------|-------------|
-| **Dual-View Learning** | Jointly leverages a *sparse* SLIM neighbourhood view and a *dense* GCN embedding view. |
+| **Dual-View Learning** | Jointly leverages a *sparse* SLIM neighbourhood view and a *dense* embedding view. |
 | **Plug-and-Play** | Drop-in module for **LightGCN**, **SimGCL**, **UltraGCN**, etc. — *one line* to boost long-tail recall. |
 | **Theory-Practice Bridged** | Signal-to-Noise Ratio (SNR) analysis, validated empirically. |
 
