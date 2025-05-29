@@ -1,4 +1,4 @@
-# Why not do Collaborative Filtering in Dual View? Bridging Sparse and Dense Models for Superior Recommendation Performance**
+# Why not do Collaborative Filtering in Dual View? Bridging Sparse and Dense Models for Superior Recommendation Performance
 
 
 
